@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ArthursAudioBPs",
+			"Path": "C:\\Users\\shang\\Downloads\\ArthursAudioBPsV1000\\ArthursAudioBPs\\Source\\ArthursAudioBPs.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ArthursAudioBPsEditor",
+			"Path": "C:\\Users\\shang\\Downloads\\ArthursAudioBPsV1000\\ArthursAudioBPs\\Source\\ArthursAudioBPsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
